@@ -11,4 +11,3 @@ print(f"Bill total: {total_bill:.2f}")
 print(f"People: {number_of_people}")
 print(f"Total with tip: {bill_with_tip:.2f}")
 print(f"Each person pays: {amount_per_person:.2f}")
-
